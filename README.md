@@ -1,2 +1,2 @@
 # git
-Git 강의자료입니다.
+Git & GitHub 강의자료입니다.
